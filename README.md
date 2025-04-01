@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawawimegahertz" alt="nawawimegahertz" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawawimegahertz&theme=onedark" alt="nawawimegahertz" /></a>
 </p>
 
 <p align="left">
